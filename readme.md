@@ -18,6 +18,7 @@ Here’s a quick overview of the structure you’ll find in this repository:
 - `PRACTICE/`: Contains individual Python exercises and their solutions.
 - `PROJECTS/`: Larger, more complex projects that utilize various Python concepts.
 - `EXAMPLES/`: Code snippets and examples demonstrating specific Python features or techniques.
+- `HELPERS/`: Code snippets and examples for most commonly used items.
 
 
 ## 📚 Resources
